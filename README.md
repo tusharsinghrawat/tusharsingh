@@ -21,7 +21,7 @@ Set the repository visibility to Public.
  Clone the Repository Locally
 
 2. Using Git CLI:
-git clone https://github.com/tusharsinghrawat/tusharsingh.github.io
+git clone https: https://github.com/tusharsinghrawat/tusharsingh
 This downloads the repository to your computer.
 
 3️. Add Your Website Files
