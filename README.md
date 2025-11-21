@@ -4,7 +4,7 @@ This task explains how to host any static website (HTML, CSS, JavaScript) for fr
 
 🚀 Objective
 Deploy a static website online through GitHub Pages and make it publicly accessible using the URL:
-https://tusharsingh.github.io
+https://tusharsinghrawat.github.io/tusharsingh/
 
 🛠 Tools Required
 GitHub Account
@@ -49,7 +49,7 @@ GitHub Pages may take 1–2 minutes to publish the website.
 
 7️. View Your Live Website
 Open:
-https://tusharsingh.github.io
+https://tusharsinghrawat.github.io/tusharsingh/
 
 
 Your static site is now live on the internet.
